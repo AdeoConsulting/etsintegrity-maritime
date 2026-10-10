@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block sensitive paths (none currently)
+# Disallow: /admin/
+# Disallow: /private/
+
+Sitemap: https://etsintegrity-maritime.com/sitemap.xml

@@ -1,0 +1,7 @@
+# Ignore Vs Code settings an ideas folder
+.vscode
+.idea
+frontent/node_modules
+frontent/dist
+frontent/.env
+frontent/.env.local
